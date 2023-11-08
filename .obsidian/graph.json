@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#worldbuilding  ",
+      "color": {
+        "a": 1,
+        "rgb": 142446
+      }
+    },
+    {
+      "query": "tag:#note  ",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    },
+    {
+      "query": "[\"type\":\"MOC\"]",
+      "color": {
+        "a": 1,
+        "rgb": 10099107
+      }
+    },
+    {
+      "query": "tag:#journal  ",
+      "color": {
+        "a": 1,
+        "rgb": 480519
+      }
+    },
+    {
+      "query": "tag:#therapy  ",
+      "color": {
+        "a": 1,
+        "rgb": 5409791
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 0.779411764705882,
+  "lineSizeMultiplier": 0.326470588235294,
+  "collapse-forces": false,
+  "centerStrength": 0.697478991596639,
+  "repelStrength": 0,
+  "linkStrength": 0.718487394957983,
+  "linkDistance": 30,
+  "scale": 0.1874153194524009,
+  "close": true
+}

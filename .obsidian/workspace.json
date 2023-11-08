@@ -1,0 +1,436 @@
+{
+  "main": {
+    "id": "59803afa86caad5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "349f0952c3c4b3a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c287055b63a82075",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Homepage/Homepage.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3d24c0faae3fb701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Managing Pages/Dashboard.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3439b3ca90008b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Journals/2023_11_08_journal.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3b8f5c93b6f3263d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06. Worldbuilding/Ella Hang'nui.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "95c0700fd2b10e08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06. Worldbuilding/Black-Skull.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9ef8b6f11fed2c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "84e9122828071202",
+        "type": "tabs",
+        "dimension": 36.61645422943222,
+        "children": [
+          {
+            "id": "d4aec53a11e57b81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2517aafd76df914f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c27de1714d3118a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "228382c6fe058641",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b1d7cc5931c4bcd8",
+        "type": "tabs",
+        "dimension": 38.70220162224797,
+        "children": [
+          {
+            "id": "85df9eb41027a182",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3bb2913a06c359ab",
+        "type": "tabs",
+        "dimension": 24.681344148319816,
+        "children": [
+          {
+            "id": "0d199030a71e6f43",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "03. Journals/2023_11_08_journal.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.22920135941749342,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "right": {
+    "id": "2954d7cf277c2f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea23adc244e43488",
+        "type": "tabs",
+        "dimension": 30.120481927710845,
+        "children": [
+          {
+            "id": "ac9a771994e7a4f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Managing Pages/Button Dev.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dfe1f69ed518f0e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "8922fa8f4dc1c040",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "03. Journals/2023_11_08_journal.md"
+              }
+            }
+          },
+          {
+            "id": "26e43d989a2d88ba",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7a0cdce1acab669",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b65d6db7507c2273",
+        "type": "tabs",
+        "dimension": 30.120481927710845,
+        "children": [
+          {
+            "id": "dbfb16a770917cb8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Managing Pages/Dashboard.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "1d1467cc9f36fa28",
+        "type": "tabs",
+        "dimension": 39.75903614457832,
+        "children": [
+          {
+            "id": "7e74ea6ef269fc04",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "f802356d87434c60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Managing Pages/PKM Library.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "455bc71d0b53cbac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "dd5001faf6a61b8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03. Journals/2023_11_08_journal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfd40bcb68203320",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03. Journals/2023_11_08_journal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55089fc807c662ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03. Journals/2023_11_08_journal.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "cmdr:Homepage: Open homepage": false,
+      "cmdr:MetaEdit: Run MetaEdit": false,
+      "cmdr:DB Folder: Create a new database table": false,
+      "cmdr:Workspaces: Manage workspace layouts": false,
+      "cmdr:Graph view: Open graph view": false,
+      "cmdr:Another Quick Switcher: Recent search": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "3439b3ca90008b61",
+  "lastOpenFiles": [
+    "03. Journals/2023_11_07_journal.md",
+    "03. Journals/2023_11_08_journal.md",
+    "03. Journals/Journals.md",
+    "01. Managing Pages/Dashboard.md",
+    "01. Managing Pages/Button Dev.md",
+    "06. Worldbuilding/Hanamia.md",
+    "06. Worldbuilding/Black-Skull.md",
+    "01. Managing Pages/Worldbuilding.md",
+    "00. Homepage/Homepage.md",
+    "06. Worldbuilding/Ella Hang'nui.md",
+    "06. Worldbuilding/Nina Hawun.md",
+    "01. Managing Pages/Personal.md",
+    "10. Obsidian/Attachements/home-banner.jpg",
+    "10. Obsidian/Attachements/city-banner.jpg",
+    "10. Obsidian/Attachements/wave-svgrepo-com.svg",
+    "06. Worldbuilding/Bolting Crystal.md",
+    "06. Worldbuilding/Ni'o.md",
+    "01. Managing Pages/Wooden Den.md",
+    "06. Worldbuilding/June.md",
+    "04. Notes/Intimacy.md",
+    "01. Managing Pages/Notes.md",
+    "01. Managing Pages/Physical World - Magick Relationship.md",
+    "04. Notes/Thinking about what to write.md",
+    "04. Notes/How to Templater.md",
+    "04. Notes/Psychologist Session 2023_11_07.md",
+    "01. Managing Pages/Therapy.md",
+    "10. Obsidian/Attachements/therapy banner.webp",
+    "Pasted image 20231107163206.png",
+    "Excalidraw/pentacle of Life.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-06 16.33.11.excalidraw.md",
+    "07. Nanowrimo/01. Pulos no Escuro.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Pasted image 20231106084110.png",
+    "10. Obsidian/Attachements/Nina Cover.jpg",
+    "10. Obsidian/Attachements/Black-Skull cityhall.png",
+    "10. Obsidian/Attachements/Ella pfp.png",
+    "02. Canvas and MOCs/My PKM.canvas",
+    "03. Journal",
+    "Notes",
+    "07. Nanowrimo",
+    "02. Canvas and MOCs/To come up with categories for notes.canvas",
+    "02. Canvas and MOCs/12 Characteristics.canvas",
+    "Journals",
+    "Prompts/Untitled",
+    "01. Managing Pages",
+    "05. Prompts"
+  ]
+}

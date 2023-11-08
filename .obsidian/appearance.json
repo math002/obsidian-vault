@@ -1,0 +1,23 @@
+{
+  "accentColor": "#a71106",
+  "theme": "moonstone",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "【Main】MCL Multi Column",
+    "【Main】Minimal Cards",
+    "【Others】MCL Gallery Cards",
+    "【Tool】MInimal Circle Images",
+    "【Tool】MInimal Image Zoom",
+    "[Nodes]",
+    "custom-admonitions.5e4ac9",
+    "【Main】Colorful Folders",
+    "【Theme】clean embdeds all",
+    "【Main】ITS theme Image Adjustment",
+    "【Main】ITS callouts (infobox, cards)"
+  ],
+  "baseFontSizeAction": true,
+  "cssTheme": "🔔 Chime",
+  "nativeMenus": true,
+  "translucency": false,
+  "baseFontSize": 15
+}

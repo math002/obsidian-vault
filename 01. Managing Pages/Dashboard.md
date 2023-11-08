@@ -1,0 +1,17 @@
+![[programming.gif#banner|center|400]]
+
+> [!bookmark|c-p-sm]+ Links
+> -  🏠 &nbsp; [[Homepage|Homepage]]
+> -	🔐&nbsp;  [[Personal|Personal]]
+> -	📖 &nbsp; [[PKM Library|PKMs]]
+> -	🗺 &nbsp; [[MOC List|MOC List]]
+> -	📓 &nbsp; [[Journals|Journals]]
+> - 📘 &nbsp; [[Books|Books]]
+> - 🛠️ &nbsp; [[HTML|HTML Fun]]
+> - 📝 &nbsp; [[Notes|Notes]]
+> - ⚛️ &nbsp; [[Atom Notes|Atom Notes]]
+> - 🛠️ &nbsp; [[Prompting|Prompts]]
+> - 🖼️ &nbsp; [[Templates|Templates]]
+> - 🌎&nbsp; [[Worldbuilding|WorlBu]]
+> - ✍🏻 &nbsp;[[NaNoWriMo|NaNoWriMo]]
+> - ⚕️&nbsp; [[Therapy|Therapy]]

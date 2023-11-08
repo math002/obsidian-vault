@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"7a510c001cd7c601","type":"group","x":-480,"y":-440,"width":660,"height":800,"color":"#0025db","label":"Notes Needed"},
+		{"id":"af021697852a9a08","x":180,"y":-960,"width":915,"height":465,"color":"5","type":"group","label":"How to get an idea"},
+		{"id":"074eb1ee095049f5","type":"group","x":320,"y":-302,"width":655,"height":524,"color":"1","label":"The Feynman Technique"},
+		{"id":"bed8c78580f4f671","x":901,"y":-940,"width":174,"height":300,"color":"4","type":"group","label":"Process"},
+		{"id":"ea49288de12595d5","type":"file","file":"01. Managing Pages/Notes.md","x":-460,"y":-393,"width":340,"height":420,"color":"5"},
+		{"id":"057fb7539883c104","type":"text","text":"## Raw Ideas","x":-42,"y":-208,"width":181,"height":50},
+		{"id":"6d6d4e0c91b28217","type":"text","text":"## Getting Ideas","x":-64,"y":-393,"width":225,"height":50},
+		{"id":"b7329e70d945f316","type":"text","text":"## PKM\n\n1. Topic\n2. Rant\n3. Area\n4. Project","x":-33,"y":4,"width":163,"height":183},
+		{"id":"cdfca02fdbfe3b15","type":"text","text":"1. Tasks\n2. Summary\n3. Goals\n4. Experiences\n5. People\n6. Readings/Media\n7. Activities\n8. Podcasts\n9. Social Media","x":-415,"y":64,"width":250,"height":264},
+		{"id":"0884d11ce497fc3c","type":"text","text":"### Choose a Subject","x":340,"y":-282,"width":245,"height":50},
+		{"id":"46326787466353b4","type":"text","text":"- Write\n\t- Without going back to resource\n\t- Put everything you learned about the subject\n- When unable to explain, note what you don't know","x":665,"y":-150,"width":290,"height":251},
+		{"id":"608a4c8fb0797996","type":"text","text":"- Get Material\n\t- YouTube Videos\n\t- Books\n\t- Articles\n\t- Blogs\n","x":340,"y":-118,"width":245,"height":187},
+		{"id":"5b1f4ec77487bbf9","type":"text","text":"### Take What you Don't Know and:","x":690,"y":120,"width":240,"height":82},
+		{"id":"d2a7ac80c4940b79","type":"text","text":"## Free Writing","x":219,"y":-920,"width":212,"height":50},
+		{"id":"deb9e76e2ebb52e3","x":508,"y":-841,"width":214,"height":72,"type":"text","text":"## Sumarizing"},
+		{"id":"bd5bcd73c2ea2f45","type":"text","text":"## 4 Questions:\n\n1. What does remind me of?\n2. What is this similar to\n3.  How is this different form ___ ?\n4.  This is interesting because?","x":200,"y":-805,"width":250,"height":290},
+		{"id":"ab9827ceca0e0e9e","x":480,"y":-601,"width":300,"height":86,"type":"text","text":"## Generalizing by GROUP"},
+		{"id":"bb8811cecd8a578a","x":921,"y":-920,"width":134,"height":50,"type":"text","text":"## Dump"},
+		{"id":"536b1d4c08d16ac8","x":921,"y":-819,"width":134,"height":50,"type":"text","text":"## Lump"},
+		{"id":"29fc5759325b735c","x":921,"y":-720,"width":134,"height":60,"type":"text","text":"## Jump"}
+	],
+	"edges":[
+		{"id":"c76097a8feb0f2dc","fromNode":"ea49288de12595d5","fromSide":"right","toNode":"057fb7539883c104","toSide":"left"},
+		{"id":"8efa4ec926b0b81b","fromNode":"6d6d4e0c91b28217","fromSide":"bottom","toNode":"057fb7539883c104","toSide":"top"},
+		{"id":"9224da8a8baf2618","fromNode":"ea49288de12595d5","fromSide":"bottom","toNode":"cdfca02fdbfe3b15","toSide":"top"},
+		{"id":"d262ea76d75142d3","fromNode":"057fb7539883c104","fromSide":"bottom","toNode":"b7329e70d945f316","toSide":"top"},
+		{"id":"f811914ec832352a","fromNode":"0884d11ce497fc3c","fromSide":"bottom","toNode":"608a4c8fb0797996","toSide":"top"},
+		{"id":"a8f07aeda8e2fbea","fromNode":"608a4c8fb0797996","fromSide":"right","toNode":"46326787466353b4","toSide":"left"},
+		{"id":"cee1aaf23c709ae1","fromNode":"46326787466353b4","fromSide":"bottom","toNode":"5b1f4ec77487bbf9","toSide":"top"},
+		{"id":"78175cab0d580c8a","fromNode":"5b1f4ec77487bbf9","fromSide":"bottom","toNode":"608a4c8fb0797996","toSide":"bottom"},
+		{"id":"04e4ba95b60e07df","fromNode":"074eb1ee095049f5","fromSide":"left","toNode":"6d6d4e0c91b28217","toSide":"right"},
+		{"id":"fbdff89a8519c03c","fromNode":"bd5bcd73c2ea2f45","fromSide":"right","toNode":"deb9e76e2ebb52e3","toSide":"left"},
+		{"id":"f8f4ade75e8f73c4","fromNode":"d2a7ac80c4940b79","fromSide":"right","toNode":"deb9e76e2ebb52e3","toSide":"top"},
+		{"id":"ef119597f2d3695e","fromNode":"deb9e76e2ebb52e3","fromSide":"bottom","toNode":"ab9827ceca0e0e9e","toSide":"top"},
+		{"id":"d02f81f76b39a791","fromNode":"bb8811cecd8a578a","fromSide":"bottom","toNode":"536b1d4c08d16ac8","toSide":"top"},
+		{"id":"a118c8288921b03b","fromNode":"536b1d4c08d16ac8","fromSide":"bottom","toNode":"29fc5759325b735c","toSide":"top"},
+		{"id":"72a4801150b5797a","fromNode":"af021697852a9a08","fromSide":"bottom","toNode":"0884d11ce497fc3c","toSide":"top","fromEnd":"arrow"},
+		{"id":"bc7d50d4c16b6a73","fromNode":"bed8c78580f4f671","fromSide":"left","toNode":"deb9e76e2ebb52e3","toSide":"right"}
+	]
+}

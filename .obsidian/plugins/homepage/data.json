@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "homepages": {
+    "Main Homepage": {
+      "version": 2,
+      "hasRibbonIcon": true,
+      "openMode": "Keep open notes",
+      "manualOpenMode": "Keep open notes",
+      "view": "Reading view",
+      "revertView": true,
+      "refreshDataview": true,
+      "autoCreate": true,
+      "autoScroll": false,
+      "pin": false,
+      "value": "Nanami's Homepage - Shiba Inu/Homepage",
+      "kind": "File",
+      "commands": [],
+      "openOnStartup": true
+    }
+  },
+  "separateMobile": false
+}
